@@ -1,0 +1,19 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="88" zoomAndPan="magnify" contentStyleType="text/css" height="20" preserveAspectRatio="xMidYMid meet" version="1.0">
+
+
+    <linearGradient xmlns:xlink="http://www.w3.org/1999/xlink" x2="0" y2="100%" xlink:type="simple" xlink:actuate="onLoad" id="a" xlink:show="other">
+        <stop stop-opacity=".1" stop-color="#bbb" offset="0"/>
+        <stop stop-opacity=".1" offset="1"/>
+    </linearGradient>
+
+    <rect rx="3" fill="#555" width="88" height="20" class="sWidth"/>
+    <rect rx="3" fill="url(#a)" width="126" height="20" class="sWidth"/>
+
+    <g fill="#ffffff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="34" y="15" fill="#111" fill-opacity="1">horusable</text>
+        <text x="34" y="14" fill="#fff" fill-opacity="1">horusable</text>
+    </g>
+
+    <path d="M78.5 11L75.8 8.4 73.6 11.5 72.5 4.6 69.38 11H67V13h3.6L71.5 11.2l0.9 5.4L76 11.5l1.6 1.5H81V11H78.5z" fill="black"/>
+    <path d="M78.5 10L75.8 7.4 73.6 10.5 72.5 3.6 69.38 10H67V12h3.6L71.5 10.2l0.9 5.4L76 10.5l1.6 1.5H81V10H78.5z" fill="cyan"/>
+</svg>
